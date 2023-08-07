@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindegth 1 -type d | wC -l 
+find . -windegth 1 -type d | wc -l
